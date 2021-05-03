@@ -44,7 +44,7 @@ These options set global values that some pages or all pages in the site use by 
     #email: "" # author's email; used in default rss template: https://gohugo.io/templates/rss/#configure-rss | optional-->
 4.  **Copyright** *(Type: String | Accepts value: Text | Optional | No default)*
     
-    It is the copyright text. Due consideration should be given to 'brandName or title' and 'contentLicense' specified in configuration file. Note that it isn't used in footer, but only [in defualt RSS template](https://gohugo.io/templates/rss/#configure-rss).
+    It is the copyright text. Due consideration should be given to 'brandName or title' and 'contentLicense' specified in configuration file. Note that it isn't used in footer, but only [in defau++lt RSS template](https://gohugo.io/templates/rss/#configure-rss).
     
     Example:
     ```yaml
